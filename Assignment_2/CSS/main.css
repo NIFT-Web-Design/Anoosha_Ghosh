@@ -1,0 +1,59 @@
+body{
+  background-color: #291A38;
+}
+
+.maindiv {
+  width: 800px;
+  background-color: white;
+  margin: auto;
+  display: flex;
+}
+.left{
+  padding-left: 50px;
+  padding-top: 65px;
+  width: 380px;
+}
+.right{
+  padding-left: 40px;
+  padding-right: 50px;
+  padding-top: 55px;
+  width: 380px;
+}
+
+.image{
+  height: 350px;
+  margin-bottom: 100px;
+
+}
+
+.content{
+  margin-top: 2px;
+  font-size: 15px;
+  font-family: "Calibri";
+  line-height: normal;
+}
+
+h3{
+  font-family: "Calibri";
+  color: #7B52AB;
+  font-size: 25px;
+}
+h1{
+  font-family: "Calibri";
+  color: #7B52AB;
+  font-size: 35px;
+  text-align: left;
+}
+
+h2{
+  font font-family: "Calibri";
+  color:black;
+  text-align: left;
+  font-size: 16px;
+}
+
+.boldtext{
+  font-size: 15px;
+  font-family: "Monserat";
+font-weight: bold;
+}
