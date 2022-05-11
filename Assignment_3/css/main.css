@@ -1,0 +1,188 @@
+header{
+  background-color: #615745;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 250px;
+  padding-right: 250px;
+
+}
+header > div{
+  display: flex;
+  justify-content: space-between;
+}
+header nav{
+  display: flex;
+  align-items: center;
+}
+header nav a{
+  margin: 15px;
+  font-size: 15px;
+  color: white;
+  font-family: "Arial";
+  text-decoration: none;
+}
+header nav .lastlink{
+  color: yellow;
+}
+.active{
+  background-color: #85896;
+  padding: 6px;
+  border-radius: 3px;
+}
+#Logo{
+  height: 100px
+}
+#bgimage{
+  background-image: url(https://boldoutline.in/wp-content/uploads/2019/04/Santhals.jpg);
+  text-align: center;
+  padding: 100px 0;
+  height: 390px;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+h1{
+  color: white;
+  font-family: "Montserat";
+  font-size: 60px;
+}
+#Part1{
+  text-align: center;
+  background-color:  white;
+  padding: 40px 10px;
+}
+h2{
+  color: #1E1D1A;
+  font-family: "Montserat";
+  font-size: 40px;
+}
+#Part1 p{
+  color: #737373;
+  font-family:"Arial";
+  font-size: 15px;
+  width: 1300px;
+  margin: auto;
+  line-height: normal;
+}
+.Part2{
+  text-align: center;
+  background-color: #FFF4D9;
+  padding: 10px 0px;
+  margin: auto;
+}
+.Part2 p.para{
+  color: black;
+  font-family:"Arial";
+  font-size: 14px;
+  max-width: 1300px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: normal;
+}
+
+
+h3{
+  color: #282828;
+  font-family: "Montserat";
+  font-size: 35px;
+}
+#Gonds{
+height: 400px;
+}
+
+
+
+
+
+#bgimage2{
+  background-image: url(https://www.tribaltoursinindia.com/wp-content/uploads/2020/11/COVER-TATTOO-1024x720.jpg);
+  text-align: center;
+  padding: 100px 20px;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+h4{
+  color: #FFF4D9;
+  font-family: "Montserat";
+  font-size: 40px;
+}
+
+.Quote p.para{
+  position: center;
+width: 649px;
+height: 58px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+}
+
+h5{
+  position: center;
+width: 337px;
+height: 37px;
+
+font-family: 'Montserat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+padding-left: 800px;
+}
+.Status p.para{position: center;
+width: 402px;
+height: 94px;
+padding: 0px 70px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+text-align: center;
+}
+
+.Part3 p.para{
+  position: absolute;
+width: 402px;
+height: 94px;
+padding-left: 400px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+text-align: center;
+}
+#godna{
+  position: absolute;
+width: 400px;
+height: 400px;
+}
+h6{position: absolute;
+width: 337px;
+height: 37px;
+
+font-family: 'Montserat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+padding-left: 400px;
+
+}
+footer{
+  background-color: #404040;
+  padding: 30px;
+  text-align: center;
+  font-family:"Calibri";
+  font-size: 15px;
+  color: #A6A6A6;
+  line-height: normal;
+}
+#smallBox {
+  height: 270px;
+}
